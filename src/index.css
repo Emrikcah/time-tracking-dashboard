@@ -1,0 +1,44 @@
+:root {
+   font-family: "Rubik", sans-serif;
+   font-synthesis: none;
+   text-rendering: optimizeLegibility;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   -webkit-text-size-adjust: 100%;
+
+   --blue: hsl(246, 80%, 60%);
+   --very-dark-blue: hsl(226, 43%, 10%);
+   --dark-blue: hsl(235, 46%, 20%);
+   --desaturated-blue: hsl(235, 45%, 61%);
+   --pale-blue: hsl(236, 100%, 87%);
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   min-height: 100vh;
+   background-color: var(--very-dark-blue);
+   color: white;
+}
+
+
+button {
+   background: none;
+   border: none;
+}
+
+.container {
+   padding: 8.1rem 2.4rem;
+}
+
+.card {
+   /* border-radius: 1.5rem; */
+}
