@@ -16,7 +16,7 @@ const Card = ({ bgColor, bgImg, title, timeframes, value }) => {
    }
 
    return (
-      <div className="card stats-card" style={{backgroundColor: `${bgColor}` }}>
+      <section className="card stats-card" style={{backgroundColor: `${bgColor}` }}>
          <div className="stats-img-container" style={{ backgroundImage: `url(${bgImg})`}}>
             
          </div>
@@ -30,7 +30,7 @@ const Card = ({ bgColor, bgImg, title, timeframes, value }) => {
                <p className="previous">{occurance} - {timeframes[`${value}`].previous} hrs</p>
             </div>
          </div>
-      </div>
+      </section>
    );
 };
 

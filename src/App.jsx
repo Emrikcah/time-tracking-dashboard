@@ -8,7 +8,7 @@ function App() {
    const [value, setValue] = useState("daily");
 
    return (
-      <div className="container">
+      <main className="container">
          {/* profile card */}
          <div className="card">
             <div className=" card profile-card-top">
@@ -36,7 +36,7 @@ function App() {
             })}
          </div>
          {/* card container end */}
-      </div>
+      </main>
    );
 }
 
