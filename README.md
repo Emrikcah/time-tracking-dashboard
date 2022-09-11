@@ -1,6 +1,6 @@
 # Frontend Mentor - Time tracking dashboard
 
-![Design preview for the Time tracking dashboard coding challenge](./desktop-preview.jpg)
+![Design preview for the Time tracking dashboard coding challenge](./public/desktop-preview.jpg)
 
 
 ## The challenge
@@ -25,8 +25,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Emrikcah/time-tracking-dashboard]
+- Live Site URL: [https://time-tracking-dashboard-react.netlify.app/]
 
 ### Built with
 
