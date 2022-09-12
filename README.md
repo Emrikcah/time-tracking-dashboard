@@ -25,8 +25,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: [https://github.com/Emrikcah/time-tracking-dashboard]
-- Live Site URL: [https://time-tracking-dashboard-react.netlify.app/]
+- Solution URL: [Github](https://github.com/Emrikcah/time-tracking-dashboard)
+- Live Site URL: [Time tracking dashboard](https://time-tracking-dashboard-react.netlify.app/)
 
 ### Built with
 
@@ -37,6 +37,10 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
+
+### Acknowledgments
+
+I scaffolded this project using create vite, not create-react-app, which led to some minor issues when I tried to import an svg as a ReactComponent. I came across an article by Israel Mitolu which helped me solve the problem. Here is a link to the article: [Article](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 
 
 
